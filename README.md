@@ -24,4 +24,4 @@
 
 <img width="1920" height="984" alt="Image" src="https://github.com/user-attachments/assets/e4125c21-3832-4040-ba12-9a4ad11370cd" />
 
-### 📌 LinkedIn Account: [Nagham Elsorady](www.linkedin.com/in/nagham-elsorady-5b575a259)
+### 📌 LinkedIn Account: [Nagham Elsorady](https//www.linkedin.com/in/nagham-elsorady-5b575a259)
